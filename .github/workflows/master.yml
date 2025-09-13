@@ -34,7 +34,7 @@ jobs:
       - name: Setup Git Configuration
         run: |
           git config user.email "b131230205@student.usm.ac.id"
-          git config user.name "novitaandara"
+          git config user.name "novitaandara23"
 
       - name: Prepare Commit
         run: |
